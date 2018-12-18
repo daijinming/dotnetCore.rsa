@@ -9,3 +9,5 @@
 根据私钥生成公钥：
 >openssl rsa -in private.key -pubout -out public.key
 
+运行 dotnet 控制台应用
+>dotnet run
